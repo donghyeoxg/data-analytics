@@ -1,12 +1,11 @@
 # Consulting × Data Analytics
 
-컨설팅식 문제 해결 방식과 데이터 분석을 결합해,
-문제를 구조화하고 가설을 데이터로 검증하는 학습 저장소입니다.
+This repository is a learning space for combining consulting-style problem solving with data analytics — structuring problems, developing hypotheses, and validating them with data.
 
-# 목표
+## Goals
 
-- 문제를 명확한 의사결정 질문으로 정의한다.
-- MECE 원칙으로 문제를 구조화한다.
-- 가설을 세우고 데이터로 검증한다.
-- AC테스트
-- 분석 결과를 실행 가능한 해결책으로 연결한다.
+- Define problems as clear, decision-oriented questions.
+- Structure problems using the **MECE (Mutually Exclusive, Collectively Exhaustive)** principle.
+- Develop hypotheses and validate them with data.
+- Apply **A/C testing**.
+- Translate analytical findings into actionable solutions.
